@@ -105,3 +105,22 @@ This application has three main panels:
 - **Database:** `grocerry`
 - **Username:** `root`
 - **Password:** `passwd`
+
+### Web App User
+<img width="1347" height="729" alt="Screenshot 2026-01-06 at 13 53 15" src="https://github.com/user-attachments/assets/5af3f435-8b06-42e2-9821-58cad97781c7" />
+<img width="1337" height="748" alt="Screenshot 2026-01-06 at 13 54 01" src="https://github.com/user-attachments/assets/4d3cb1d8-6501-4eec-8870-c622e29fa235" />
+<img width="1346" height="745" alt="Screenshot 2026-01-06 at 13 54 11" src="https://github.com/user-attachments/assets/a92ccea7-f13e-433c-87a3-b1a6b824de11" />
+<img width="1348" height="728" alt="Screenshot 2026-01-06 at 13 53 04" src="https://github.com/user-attachments/assets/e3c24e91-51cc-43ef-b323-9e260e2eb73e" />
+<img width="780" height="664" alt="Screenshot 2026-01-06 at 13 53 32" src="https://github.com/user-attachments/assets/1d2198f2-76c0-4190-b997-5053df6f38e2" />
+<img width="806" height="736" alt="Screenshot 2026-01-06 at 13 53 43" src="https://github.com/user-attachments/assets/a9cf86c1-5028-4d94-b979-7748ce763d8a" />
+
+### Web App Admin
+<img width="1352" height="731" alt="Screenshot 2026-01-06 at 13 54 32" src="https://github.com/user-attachments/assets/b8ec60e8-c29f-4edc-9e79-1ae898b8921b" />
+
+### Web App Seller
+<img width="1336" height="734" alt="Screenshot 2026-01-06 at 13 57 02" src="https://github.com/user-attachments/assets/4af19e8e-d1ba-4461-a611-ab2338ac84de" />
+<img width="1344" height="737" alt="Screenshot 2026-01-06 at 13 54 44" src="https://github.com/user-attachments/assets/af2ccc62-f4ee-4ba0-b141-02233c14796a" />
+
+
+
+
