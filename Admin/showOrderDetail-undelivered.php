@@ -11,7 +11,7 @@ while ($rt = mysqli_fetch_assoc($rs)) {
 ?>
 <div class="wrwr">
     <div class="path" id="path">
-        <a href="index.html"><i class="fa fa-home" aria-hidden="true"></i> Dashboard</a>
+        <a href="index.php"><i class="fa fa-home" aria-hidden="true"></i> Dashboard</a>
         <span>/</span>
         <a href="showOrderDetail.html">Order Detail</a>
     </div>

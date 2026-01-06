@@ -9,7 +9,7 @@ while ($g = mysqli_fetch_assoc($r)) {
 ?>
 <div class="wrwr">
     <div class="path" id="path">
-        <a href="index.html"><i class="fa fa-home" aria-hidden="true"></i> Dashboard</a>
+        <a href="index.php"><i class="fa fa-home" aria-hidden="true"></i> Dashboard</a>
         <span>/</span>
         <a href="order.html">Orders</a>
     </div>

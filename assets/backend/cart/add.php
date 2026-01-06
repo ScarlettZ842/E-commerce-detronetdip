@@ -24,7 +24,7 @@
     }
  }else{
     $u_id=$_SESSION['USER_ID'];
-    $utm=$_SESSION['utm_source'];
+    $utm=isset($_SESSION['utm_source']) ? $_SESSION['utm_source'] : 0;
     $res=mysqli_query($con,"select * from cart where u_id='$u_id' and belonging_city='$utm'");
     $count=mysqli_num_rows($res);
     if($count>0){

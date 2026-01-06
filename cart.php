@@ -124,7 +124,7 @@ $total_subtotal = 0;
                             <?php
                         }
                     } else {
-                        $utm = $_SESSION['utm_source'];
+                        $utm = isset($_SESSION['utm_source']) ? $_SESSION['utm_source'] : 0;
                         $uid = $_SESSION['USER_ID'];
                         $rs = mysqli_query($con, "select * from cart where u_id='$uid' and belonging_city='$utm'");
                         if (mysqli_num_rows($rs) > 0) {

@@ -9,7 +9,7 @@ $r1 = mysqli_query($con, $q1);
 ?>
 <div class="wrwr">
     <div class="path" id="path">
-        <a href="index.html"><i class="fa fa-home" aria-hidden="true"></i> Dashboard</a>
+        <a href="index.php"><i class="fa fa-home" aria-hidden="true"></i> Dashboard</a>
         <span>/</span>
         <a href="view_seller_wallet_history.php?sid=<?php echo $_GET['sid']; ?>">Wallet history of seller </a>
     </div>

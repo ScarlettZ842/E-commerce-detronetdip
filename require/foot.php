@@ -46,52 +46,6 @@
             <div class="row">
                 <ul class="ul1">
                     <li class="heading">
-                        <h4>Categories</h4>
-                    </li>
-                    <ul class="ul-sub">
-                        <li>Fruits and Vegetables</li>
-                        <li>Grocery & Staples</li>
-                        <li>Dairy & Eggs</li>
-                        <li>Beverages</li>
-                        <li>Snacks</li>
-                        <li>Fruits and Vegetables</li>
-                        <li>Grocery & Staples</li>
-                        <li>Dairy & Eggs</li>
-                        <li>Beverages</li>
-                        <li>Snacks</li>
-                    </ul>
-                </ul>
-                <ul class="ul1">
-                    <li class="heading">
-                        <h4>Usefull Links</h4>
-                    </li>
-                    <ul class="ul-sub">
-                        <li>Fruits and Vegetables</li>
-                        <li>Dairy & Eggs</li>
-                        <li>Beverages</li>
-                        <li>Snacks</li>
-                        <li>Snacks</li>
-                        <li>Beverages</li>
-                        <li>Snacks</li>
-                    </ul>
-                </ul>
-                <ul class="ul1">
-                    <li class="heading">
-                        <h4>Top Cities</h4>
-                    </li>
-                    <ul class="ul-sub">
-                        <li>Fruits and Vegetables</li>
-                        <li>Grocery & Staples</li>
-                        <li>Snacks</li>
-                        <li>Fruits and</li>
-                        <li>Grocery & Staples</li>
-                        <li>Dairy & Eggs</li>
-                        <li>Beverages</li>
-                        <li>Snacks</li>
-                    </ul>
-                </ul>
-                <ul class="ul1">
-                    <li class="heading">
                         <h4>Download App</h4>
                     </li>
                     <ul class="ul-sub da">

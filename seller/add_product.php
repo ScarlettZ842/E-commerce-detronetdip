@@ -76,7 +76,7 @@ if ($h_t == '1973') {
 ?>
 <div class="path">
     <div class="container">
-        <a href="index.html">Home</a>
+        <a href="index.php">Home</a>
         /
         <a href="product.php">product</a>
         /

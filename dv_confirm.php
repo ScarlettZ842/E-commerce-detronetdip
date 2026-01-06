@@ -5,9 +5,9 @@ $oid = $_GET['id'];
 ?>
 <div class="path">
     <div class="container">
-        <a href="index.html">Home</a>
+        <a href="index.php">Home</a>
         /
-        <a href="index.html">My Orders</a>
+        <a href="index.php">My Orders</a>
     </div>
 </div>
 <section class="myorders">

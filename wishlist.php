@@ -4,9 +4,9 @@ authorise_user2();
 ?>
 <div class="path">
   <div class="container">
-    <a href="index.html">Home</a>
+    <a href="index.php">Home</a>
     /
-    <a href="index.html">My Wishlist</a>
+    <a href="index.php">My Wishlist</a>
   </div>
 </div>
 <section class="wishlist">

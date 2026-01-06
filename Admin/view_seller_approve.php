@@ -8,7 +8,7 @@ $is_gst = $row['is_gst'];
 ?>
 <div class="wrwr">
     <div class="path" id="path">
-        <a href="index.html"><i class="fa fa-home" aria-hidden="true"></i> Dashboard</a>
+        <a href="index.php"><i class="fa fa-home" aria-hidden="true"></i> Dashboard</a>
         <span>/</span>
         <a href="sellerapprove.html">Approve Sellers </a><span>/</span>
         <a href="view_seller_approve.html">View</a>
